@@ -1,0 +1,1 @@
+# next_weather_app_toy_project
